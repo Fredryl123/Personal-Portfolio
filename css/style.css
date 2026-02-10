@@ -7,7 +7,7 @@
 }
 
 body {
-    background-color: #f4f4f4;
+    background-color: ##ffe4ec;
     color: #111;
     line-height: 1.6;
 }
@@ -131,7 +131,7 @@ body {
 
 /* Projects */
 .project-card {
-    background: #fafafa;
+    background: ##ffe4ec;
     padding: 20px;
     margin-bottom: 20px;
     border-left: 5px solid #333;
